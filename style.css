@@ -2,7 +2,7 @@
 html {
     color: black;
     background-color: #f2f2ff;
-    font-family: geneva, serif;
+    font-family: Geneva, Helvetica, sans-serif;
     font-size: 16px;
     padding: 0 20px 0 20px;
 }
@@ -22,7 +22,7 @@ h2{
 
 p{
     color: #4d4da6;
-    font-family: geneva, sans-serif;
+    font-family: Geneva, Helvetica, sans-serif;
     line-height: 1.5em;
     text-indent: 30px;
 }
