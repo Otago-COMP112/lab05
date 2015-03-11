@@ -1,0 +1,24 @@
+/* Tin Htoo Aung, March 2015. Style sheet for Activity 5 */
+html {
+    color: black;
+    background-color: #f2f2ff;
+    font-family: serif;
+    font-size: medium;
+}
+
+h1{
+    font-size: x-large;
+    color: #4d4da6;
+}
+
+h2{
+    font-size: large;
+    color: #4d4da6;
+
+}
+
+p{
+    color: #4d4da6;
+    font-family: sans-serif;
+    line-height: 1.5em;
+}
