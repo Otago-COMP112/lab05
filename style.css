@@ -2,23 +2,27 @@
 html {
     color: black;
     background-color: #f2f2ff;
-    font-family: serif;
-    font-size: medium;
+    font-family: geneva, serif;
+    font-size: 16px;
+    padding: 0 20px 0 20px;
 }
 
 h1{
-    font-size: x-large;
-    color: #4d4da6;
+    font-size: 25px;
+    color: #12598b;
+    font-style: italic;
+    text-align: center;
 }
 
 h2{
-    font-size: large;
+    font-size: 20px;
     color: #4d4da6;
-
+    text-decoration: underline;
 }
 
 p{
     color: #4d4da6;
-    font-family: sans-serif;
+    font-family: geneva, sans-serif;
     line-height: 1.5em;
+    text-indent: 30px;
 }
